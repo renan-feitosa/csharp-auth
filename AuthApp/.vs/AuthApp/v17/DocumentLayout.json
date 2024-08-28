@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Inteli\\Documents\\GitHub\\csharp-auth-test\\AuthApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1394FCA8-2BE5-454B-B3DC-A9A648743B0B}|AuthApp\\AuthApp.csproj|c:\\users\\inteli\\documents\\github\\csharp-auth-test\\authapp\\authapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1394FCA8-2BE5-454B-B3DC-A9A648743B0B}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1394FCA8-2BE5-454B-B3DC-A9A648743B0B}|AuthApp\\AuthApp.csproj|c:\\users\\inteli\\documents\\github\\csharp-auth-test\\authapp\\authapp\\models\\inbounduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1394FCA8-2BE5-454B-B3DC-A9A648743B0B}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\models\\inbounduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1394FCA8-2BE5-454B-B3DC-A9A648743B0B}|AuthApp\\AuthApp.csproj|c:\\users\\inteli\\documents\\github\\csharp-auth-test\\authapp\\authapp\\migrations\\20240826201947_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1394FCA8-2BE5-454B-B3DC-A9A648743B0B}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\migrations\\20240826201947_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1394FCA8-2BE5-454B-B3DC-A9A648743B0B}|AuthApp\\AuthApp.csproj|c:\\users\\inteli\\documents\\github\\csharp-auth-test\\authapp\\authapp\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1394FCA8-2BE5-454B-B3DC-A9A648743B0B}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InboundUser.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\GitHub\\csharp-auth-test\\AuthApp\\AuthApp\\Models\\InboundUser.cs",
+              "RelativeDocumentMoniker": "AuthApp\\Models\\InboundUser.cs",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\GitHub\\csharp-auth-test\\AuthApp\\AuthApp\\Models\\InboundUser.cs",
+              "RelativeToolTip": "AuthApp\\Models\\InboundUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:23:28.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\GitHub\\csharp-auth-test\\AuthApp\\AuthApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\GitHub\\csharp-auth-test\\AuthApp\\AuthApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAIwIoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:23:00.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240826201947_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\GitHub\\csharp-auth-test\\AuthApp\\AuthApp\\Migrations\\20240826201947_initial.cs",
+              "RelativeDocumentMoniker": "AuthApp\\Migrations\\20240826201947_initial.cs",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\GitHub\\csharp-auth-test\\AuthApp\\AuthApp\\Migrations\\20240826201947_initial.cs",
+              "RelativeToolTip": "AuthApp\\Migrations\\20240826201947_initial.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:19:47.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Inteli\\Documents\\GitHub\\csharp-auth-test\\AuthApp\\AuthApp\\data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AuthApp\\data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\Inteli\\Documents\\GitHub\\csharp-auth-test\\AuthApp\\AuthApp\\data\\AuthDbContext.cs",
+              "RelativeToolTip": "AuthApp\\data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:40:10.747Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
